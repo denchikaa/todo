@@ -26,7 +26,7 @@ SECRET_KEY = config.SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config.SECRET_KEY
 
-ALLOWED_HOSTS = config.ALOWED_HOSTS
+ALOWED_HOSTS = config.ALOWED_HOSTS
 
 
 # Application definition
